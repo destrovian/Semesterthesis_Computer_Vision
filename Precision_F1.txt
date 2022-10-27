@@ -1,0 +1,79 @@
+tandir_kitti_0004.csv
+Maximum precision is:  0.5619335347432024
+Highest F1 Score is:  0.6370239929561963
+
+raytrace_kitti_0020_emc.csv
+Maximum precision is:  0.9027777777777778
+Highest F1 Score is:  0.7532467532467532
+
+tandir_kitti_0004_emc.csv
+Maximum precision is:  0.6371308016877637
+Highest F1 Score is:  0.7325807707279097
+
+tandir_kitti_0020_emc.csv
+Maximum precision is:  1.0
+Highest F1 Score is:  0.9818181818181818
+
+tandir_davis_motorbike_noise.csv
+Maximum precision is:  0.7804054054054054
+Highest F1 Score is:  0.7591145833333333
+
+tandir_davis_motorbike.csv
+Maximum precision is:  0.8
+Highest F1 Score is:  0.8023106546854942
+
+tandir_davis_car-turn.csv
+Maximum precision is:  1.0
+Highest F1 Score is:  0.9506688963210702
+
+raytrace_davis_bus.csv
+Maximum precision is:  0.9737991266375546
+Highest F1 Score is:  0.9080882352941178
+
+raytrace_kitti_0003_emc.csv
+Maximum precision is:  0.4490010515247108
+Highest F1 Score is:  0.5938803894297635
+
+tandir_kitti_0020.csv
+Maximum precision is:  0.9339622641509434
+Highest F1 Score is:  0.8924180327868853
+
+raytrace_kitti_0003.csv
+Maximum precision is:  0.33352601156069367
+Highest F1 Score is:  0.4800332778702163
+
+raytrace_kitti_0020.csv
+Maximum precision is:  0.9064039408866995
+Highest F1 Score is:  0.8301158301158301
+
+tandir_kitti_0003.csv
+Maximum precision is:  0.391304347826087
+Highest F1 Score is:  0.48200917652740893
+
+raytrace_davis_motorbike_noise.csv
+Maximum precision is:  0.947452229299363
+Highest F1 Score is:  0.9135446685878962
+
+tandir_kitti_0003_emc.csv
+Maximum precision is:  0.4824561403508772
+Highest F1 Score is:  0.57421875
+
+raytrace_kitti_0004.csv
+Maximum precision is:  0.6361529548088065
+Highest F1 Score is:  0.715697904310004
+
+raytrace_kitti_0004_emc.csv
+Maximum precision is:  0.6618106139438086
+Highest F1 Score is:  0.7311922569291686
+
+tandir_davis_bus.csv
+Maximum precision is:  0.9469964664310954
+Highest F1 Score is:  0.9403706688154715
+
+raytrace_davis_motorbike.csv
+Maximum precision is:  0.947452229299363
+Highest F1 Score is:  0.9148629148629148
+
+raytrace_davis_car-turn.csv
+Maximum precision is:  1.0
+Highest F1 Score is:  0.9593188268684958
